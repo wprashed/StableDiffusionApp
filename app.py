@@ -4,8 +4,8 @@ import customtkinter as ctk
 from PIL import ImageTk
 from authtoken import auth_token
 
-import torch
-from torch import autocast
+#import torch
+#from torch import autocast
 from diffusers import StableDiffusionPipeline 
 
 # Create the app
